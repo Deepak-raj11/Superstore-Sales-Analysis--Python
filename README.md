@@ -1,9 +1,10 @@
 # Superstore-Sales-Analysis--Python
-1. Introduction
+# 1. Introduction
+
 This project aims to explore and analyze the Superstore dataset to derive valuable business insights. We'll examine the performance of different products, regions, and customer segments. Our goal is to gain insights into the sales patterns, customer behavior, and product performance, which will help the store improve its decision-making process.
 
 
-Key Points on Analyzing the Superstore Dataset using Python:
+# Key Points on Analyzing the Superstore Dataset using Python:
 1.	Data Cleaning:
 o	Handle missing values: Remove rows or impute missing data to ensure data integrity.
 o	Remove duplicates: Ensure there are no duplicate orders or customers.
@@ -21,7 +22,7 @@ o	Yearly Growth: Analyze year-over-year sales growth to monitor business expansi
 o	Customer Segmentation: Analyze the performance of different customer segments (e.g., individual, corporate) to tailor marketing strategies.
 6.	Sales by Quantity:
 o	Quantity vs. Sales: Analyze if there’s a correlation between the quantity sold and profit margins.
-Insights and Conclusion
+# Insights and Conclusion
 After performing the EDA, here are some observations and insights:
 
 
